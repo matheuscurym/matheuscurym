@@ -138,8 +138,8 @@ Desenvolvi um site para a Gitapadm como um projeto web real, aplicando meus conh
 - **Tipo:** Site empresarial
 - **Área:** Serviços ambientais
 - **Minha participação:** Desenvolvimento web
-- **Stack:** `STACK_GITAPADM`
-- **Status:** `STATUS_GITAPADM`
+- **Stack:** `HTML • CSS • JavaScript`
+- **Status:** `Em desenvolvimento`
 - **Repositório:** [Ver repositório](REPOSITORIO_GITAPADM)
 - **Site publicado:** [Ver projeto](SITE_GITAPADM)
 
@@ -158,7 +158,7 @@ Minha atuação na Núcleo FourTech combina desenvolvimento, construção da emp
 
 - **Minhas funções:** Cofundador, Desenvolvedor e Diretor de Marketing
 - **Status:** Em desenvolvimento
-- **Stack:** `STACK_FOURTECH`
+- **Stack:** `HTML • CSS • JavaScript • REACT`
 - **Repositório:** [Ver repositório](REPOSITORIO_FOURTECH)
 - **Site:** [Visitar Núcleo FourTech](SITE_NUCLEO_FOURTECH)
 
