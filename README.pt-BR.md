@@ -246,16 +246,16 @@ No longo prazo, também pretendo estudar **cloud, arquitetura de software e inte
 ## Contato
 
 <p align="left">
-  <a href="LINK_LINKEDIN">
+  <a href="instagram.com/mthcury_">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:matheuscurydeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="LINK_PORTFOLIO">
+  <a href="https://github.com/matheuscurym"> 
     <img src="https://img.shields.io/badge/Portfólio-Visitar-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
-  <a href="SITE_NUCLEO_FOURTECH">
+  <a href="fourtech.alrigroup.com">
     <img src="https://img.shields.io/badge/Núcleo_FourTech-Empresa-111827?style=for-the-badge" alt="Núcleo FourTech" />
   </a>
 </p>
