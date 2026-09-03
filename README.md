@@ -199,9 +199,9 @@ These are the types of repositories I want this profile to prioritize:
 ## GitHub activity
 
 <div align="center">
-
+  
 <img
-  src="https://streak-stats.demolab.com?user=matheuscurym&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=matheuscurym&theme=tokyonight&hide_border=true&locale=en"
   alt="GitHub streak"
 />
 
