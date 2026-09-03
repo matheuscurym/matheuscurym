@@ -201,8 +201,8 @@ Estes são os tipos de repositórios que quero priorizar neste perfil:
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=matheuscurym&theme=tokyonight&hide_border=true"
-  alt="GitHub streak"
+  src="https://streak-stats.demolab.com?user=matheuscurym&theme=tokyonight&hide_border=true&locale=pt_BR"
+  alt="Sequência de contribuições no GitHub"
 />
 
 <br>
