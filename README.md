@@ -206,12 +206,6 @@ These are the types of repositories I want this profile to prioritize:
 />
 
 <br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=matheuscurym&theme=react-dark&hide_border=true&area=true"
-  alt="GitHub activity graph"
-/>
-
 </div>
 
 ### Contribution animation
