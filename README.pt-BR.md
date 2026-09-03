@@ -206,12 +206,6 @@ Estes são os tipos de repositórios que quero priorizar neste perfil:
 />
 
 <br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=matheuscurym&theme=react-dark&hide_border=true&area=true"
-  alt="Gráfico de atividade no GitHub"
-/>
-
 </div>
 
 ### Animação das contribuições
@@ -252,7 +246,7 @@ No longo prazo, também pretendo estudar **cloud, arquitetura de software e inte
   <a href="mailto:matheuscurydeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/matheuscurym"> 
+  <a href="https://github.com/matheuscurym?tab=repositories"> 
     <img src="https://img.shields.io/badge/Portfólio-Visitar-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
   <a href="fourtech.alrigroup.com">
