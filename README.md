@@ -249,13 +249,13 @@ In the longer term, I also want to study **cloud, software architecture and prac
   <a href="LINK_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:matheuscurydeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="LINK_PORTFOLIO">
+  <a href="https://github.com/matheuscurym?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="SITE_NUCLEO_FOURTECH">
+  <a href="fourtech.alrigroup.com">
     <img src="https://img.shields.io/badge/Núcleo_FourTech-Company-111827?style=for-the-badge" alt="Núcleo FourTech" />
   </a>
 </p>
